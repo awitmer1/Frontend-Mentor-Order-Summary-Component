@@ -12,8 +12,15 @@
 }
 
 body {
-    background-color: var(--Very-pale-blue);
+    background-color: var(--Pale-blue);
+    text-align: center;
+    background-image: url('./images/pattern-background-desktop.svg');
+    background-repeat: no-repeat;
+    background-blend-mode: inherit;
+    background-attachment: fixed;
+    background-repeat: repeat-x;
 }
+
 
 .attribution {
     font-size: 11px;
