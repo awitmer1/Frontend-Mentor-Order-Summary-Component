@@ -51,6 +51,11 @@ h2 {
     align-items: center;
 }
 
+.payment-plan a {
+    color: var(--Bright-blue);
+    font-weight: 700;
+}
+
 .finalize-order button {
     background-color: var(--Bright-blue);
     color: white;
@@ -58,6 +63,13 @@ h2 {
     padding: 0.5rem 7rem;
     border-radius: 0.5rem;
     border: none;
+}
+
+.finalize-order a {
+    font-weight: 700;
+    font-style: normal;
+    text-decoration: none;
+    color: var(--Desaturated-blue);
 }
 
 .attribution {
