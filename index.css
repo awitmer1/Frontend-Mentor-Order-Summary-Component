@@ -51,6 +51,15 @@ h2 {
     align-items: center;
 }
 
+.finalize-order button {
+    background-color: var(--Bright-blue);
+    color: white;
+    margin: 2rem;
+    padding: 0.5rem 7rem;
+    border-radius: 0.5rem;
+    border: none;
+}
+
 .attribution {
     font-size: 11px;
     text-align: center;
