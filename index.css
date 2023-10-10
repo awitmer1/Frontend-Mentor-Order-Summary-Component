@@ -38,6 +38,11 @@ h2 {
     align-items: center;
 }
 
+.order-summary img {
+    border-top-left-radius: 1.5rem;
+    border-top-right-radius: 1.5rem;
+}
+
 .payment-plan {
     background-color: var(--Very-pale-blue);
     width: fit-content;
