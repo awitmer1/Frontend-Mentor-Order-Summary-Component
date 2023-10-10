@@ -21,6 +21,18 @@ body {
     background-repeat: repeat-x;
 }
 
+h2 {
+    color: var(--Dark-blue);
+    font-weight: 900;
+    font-size: xx-large;
+}
+
+.main-card {
+    background-color: white;
+    margin: 10rem 20rem;
+    height: 40rem;
+}
+
 
 .attribution {
     font-size: 11px;
