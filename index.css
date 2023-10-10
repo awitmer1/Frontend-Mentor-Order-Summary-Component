@@ -33,6 +33,9 @@ h2 {
     height: 40rem;
 }
 
+.payment-plan {
+    background-color: var(--Very-pale-blue);
+}
 
 .attribution {
     font-size: 11px;
