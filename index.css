@@ -51,6 +51,14 @@ h2 {
     align-items: center;
 }
 
+.plan-text {
+    font-weight: 700;
+}
+
+.price-text {
+    color: var(--Desaturated-blue)
+}
+
 .payment-plan a {
     color: var(--Bright-blue);
     font-weight: 700;
