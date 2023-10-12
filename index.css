@@ -43,6 +43,11 @@ h2 {
     border-top-right-radius: 1.5rem;
 }
 
+.order-summary p {
+    color: var(--Desaturated-blue);
+    margin: 0rem 4rem 2rem 4rem;
+}
+
 .payment-plan {
     background-color: var(--Very-pale-blue);
     width: fit-content;
