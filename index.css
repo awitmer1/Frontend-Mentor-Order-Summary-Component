@@ -30,7 +30,7 @@ h2 {
 
 .main-card {
     background-color: white;
-    margin: 10rem auto;
+    margin: 5rem auto;
     height: 44rem;
     border-radius: 1.5rem;
     width: min-content;
@@ -64,9 +64,9 @@ h2 {
     margin-bottom: 0;
 }
 
-.center {
+/* .center {
     padding-right: 8rem;
-}
+} */
 
 .price-text {
     color: var(--Desaturated-blue);
@@ -100,10 +100,17 @@ h2 {
 }
 
 .attribution {
-    font-size: 11px;
     text-align: center;
 }
 
 .attribution a {
     color: hsl(228, 45%, 44%);
+}
+
+@media only screen and (max-width: 375px) {
+
+    .main-card,
+    .order-summary img {
+        max-width: 90vw;
+    }
 }
