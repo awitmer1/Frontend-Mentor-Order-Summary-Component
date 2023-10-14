@@ -24,7 +24,8 @@ body {
 h2 {
     color: var(--Dark-blue);
     font-weight: 900;
-    font-size: xx-large;
+    font-size: x-large;
+    padding-top: 1rem;
 }
 
 .main-card {
