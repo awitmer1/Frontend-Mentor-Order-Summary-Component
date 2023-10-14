@@ -52,11 +52,12 @@ h2 {
 
 .payment-plan {
     background-color: var(--Very-pale-blue);
-    width: fit-content;
+    width: 21rem;
     padding: 1rem;
     display: flex;
     align-items: center;
     border-radius: 0.5rem;
+    justify-content: space-between;
 }
 
 .plan-text {
@@ -64,9 +65,10 @@ h2 {
     margin-bottom: 0;
 }
 
-/* .center {
-    padding-right: 8rem;
-} */
+.bundle {
+    display: flex;
+    align-items: center;
+}
 
 .price-text {
     color: var(--Desaturated-blue);
