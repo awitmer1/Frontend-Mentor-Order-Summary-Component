@@ -29,10 +29,10 @@ h2 {
 
 .main-card {
     background-color: white;
-    margin: 10rem 20rem;
+    margin: 10rem auto;
     height: 44rem;
     border-radius: 1.5rem;
-    min-width: fit-content;
+    width: min-content;
     display: flex;
     flex-direction: column;
     align-items: center;
