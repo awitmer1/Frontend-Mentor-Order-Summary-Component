@@ -91,7 +91,12 @@ h2 {
     padding: 1rem 7rem;
     border-radius: 0.5rem;
     border: none;
+    cursor: pointer;
     box-shadow: 0px 22px 13px 4px var(--Pale-blue);
+}
+
+.finalize-order button:hover {
+    opacity: .7;
 }
 
 .finalize-order a {
