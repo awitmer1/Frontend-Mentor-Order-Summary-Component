@@ -121,6 +121,10 @@ h2 {
         max-width: 90vw;
     }
 
+    .order-summary p {
+        margin: 0rem 1.5rem 2rem 1.5rem;
+    }
+
     .payment-plan {
         width: 16rem;
     }
