@@ -80,6 +80,10 @@ h2 {
     font-weight: 700;
 }
 
+.payment-plan a:hover {
+    text-decoration-line: none;
+}
+
 .payment-plan img {
     padding-right: 1rem;
 }
