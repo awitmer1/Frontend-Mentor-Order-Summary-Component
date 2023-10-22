@@ -21,7 +21,7 @@ body {
     background-repeat: repeat-x;
 }
 
-h2 {
+h1 {
     color: var(--Dark-blue);
     font-weight: 900;
     font-size: x-large;
